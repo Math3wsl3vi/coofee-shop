@@ -12,6 +12,7 @@ export default function Home() {
       <About/>
       <Features/>
       {/* booking */}
+      
       {/* menu */}
       {/* products */}
       {/* newsletter */}
