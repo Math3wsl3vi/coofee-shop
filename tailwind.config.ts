@@ -16,6 +16,7 @@ export default {
 			brown: {
 				1:'#3f271e',
 				2: '#6f3727',
+				3:'#311d15',
 			},
   			background: 'hsl(var(--background))',
   			foreground: 'hsl(var(--foreground))',
